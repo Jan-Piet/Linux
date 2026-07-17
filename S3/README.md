@@ -91,4 +91,4 @@ Cada estudiante debe subir al repositorio:
 
 ---
 
-*Linux III · CTT · 2026 — Contacto: docente@ctt.edu.uy*
+*Linux III · CTT · 2026 — Contacto: damian.pajares@docente.cebial.edu.uy*
